@@ -1,5 +1,5 @@
 ### Olá, meu nome é Yan 🚀
-Sou graduando em Ciência da Computação e Ciências Exatas na Universidade Federal de Juiz de Fora, atualmente no terceiro período. Sou entusiasta em áreas como desenvolvimento de sistemas e desenvolvimento de jogos.
+Sou graduando em Ciência da Computação e Ciências Exatas na Universidade Federal de Juiz de Fora, atualmente no quarto período. Sou entusiasta em áreas como desenvolvimento de sistemas e desenvolvimento de jogos.
 
 ### Tecnologias
 
